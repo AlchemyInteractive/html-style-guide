@@ -73,5 +73,5 @@ Make sure to include a viewport meta tag when building a responsive or mobile de
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 ```
 
-</>
+</ Wildebeest HTML Style Guide >
 =
