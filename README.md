@@ -43,6 +43,35 @@ Use hyphen to name your attributes and class.
   <!-- good -->
   <a href="http://google.com" class="external-link">View article</a>
 ```
+  
+### Attribute Names
+Lowercase looks cleaner and is easier to write
+
+```html
+  <!-- bad -->
+  <div CLASS="menu">
+
+  <!-- good -->
+  <div class="menu">
+
+```
+
+### Spaces and Equal Signs
+Space-less is easier to read, and groups entities better together
+```html
+  <!-- bad -->
+  <link rel = "stylesheet" href = "styles.css">
+
+  <!-- good -->
+  <link rel="stylesheet" href="styles.css">
+```
+
+### Avoid Long Code Lines
+When using an HTML editor, it is inconvenient to scroll right and left to read the HTML code.
+Try to avoid code lines longer than 80 characters.
+
+### Blank Lines and Indention
+Todo: determine blank line and indention structure here.
 
 ### Doc Type:
 Ensure that all websites use the new HTML5 doctype
